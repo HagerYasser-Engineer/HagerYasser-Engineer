@@ -1,24 +1,24 @@
 <div align="center">
 
-# Hi there! 👋
-
-# I'm Hager Yasser
-## Front-End Developer
+<!-- اليافطة المتحركة باسمك: بسيطة، مضمونة الظهور، ورايقة -->
+<img src="https://custom-icon-badges.demolab.com/banner?text=Hager%20Yasser&color=36BCF7&height=200&fontSize=40" alt="Hager Yasser" />
 
 ---
 
-### 🛠️ My Tech Stack
+### Front-End Developer
 
-| Skill | Language/Library |
-| :--- | :--- |
-| **Markup & Styling** | `HTML5`, `CSS3` |
-| **Programming** | `JavaScript` (ES6+) |
-| **Frameworks** | `React` |
+---
+
+### 🛠️ Tech Stack
+
+<!-- أيقونات التكنولجي: ملونة، شيك، في سطر واحد ومضمونة الظهور -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 ---
 
 ### 🌐 Let's Connect
 
-[**LinkedIn - Connect with me!**](https://www.linkedin.com/in/hager-yasser-profile)
+<!-- أيقونة لينكد إن الملونة وبسيطة جداً -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hager-yasser-profile)
 
 </div>
