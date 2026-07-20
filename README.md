@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- اليافطة المتحركة باسمك: بسيطة، مضمونة الظهور، ورايقة -->
-<img src="https://custom-icon-badges.demolab.com/banner?text=Hager%20Yasser&color=36BCF7&height=200&fontSize=40" alt="Hager Yasser" />
+# Hi I'm Hager Yasser
 
 ---
 
